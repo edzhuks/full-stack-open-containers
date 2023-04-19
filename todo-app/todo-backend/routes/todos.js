@@ -16,7 +16,7 @@ router.post('/', async (req, res) => {
     done: false,
   })
   const todos = await getAsync('todos')
-  await setAsync('todos', todos + 1)
+  await setAsync('todos', (todos ? parseInt(todos) : 0) + 1)
   res.send(todo)
 })
 
