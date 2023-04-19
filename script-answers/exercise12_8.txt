@@ -1,0 +1,159 @@
+Script started on 2023-04-19 13:33:54+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="135" LINES="70"]
+]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[00m$ exitsudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kexitsudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker container run -it ubuntu bash[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/script-answers[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcd ../todo-app/todo-backend/
+]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ cd ../todo-app/todo-backend/[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker container run -it ubuntu bash[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ docker container run -it[5P[C[C[C[C[C[C[C[C[C[C[C[C[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnpm run test ./testsexit[Knpm run test ./testsexit[Kdocker container run -it ubuntu bash[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ sudo docker container ru[5@n -it[C[C[C[C[C[C[C[C[C[C[C[C[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo docker start -i zen_lovelace[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ../todo-app/todo-backend/[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker compose -f docker-compose.dev.yml down --volumes
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/json?all=1&filters=%7B%22label%22%3A%7B%22com.docker.compose.oneoff%3DFalse%22%3Atrue%2C%22com.docker.compose.project%3Dtodo-backend%22%3Atrue%7D%7D": dial unix /var/run/docker.sock: connect: permission denied
+]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ docker compose -f docker-compose.dev.yml down --volumes[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ sdocker compose -f docke[1@r[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [Cudocker compose -f dock[1@e[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[Cdocker compose -f doc[1@k[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[Codocker compose -f do[1@c[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C docker compose -f d[1@o[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C
+
+[sudo] password for edzhuks: 
+[1A[1B[0G[?25l[+] Running 1/0
+[34m ⠿ Container todo-backend-mongo-1  Removed                                                                                        0.0s
+[0m[37m ⠋ Network todo-backend_default    Removing                                                                                       0.0s
+[0m[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+[34m ⠿ Container todo-backend-mongo-1  Removed                                                                                        0.0s
+[0m[37m ⠙ Network todo-backend_default    Removing                                                                                       0.1s
+[0m[?25h[1A[1A[1A[0G[?25l[34m[+] Running 2/2[0m
+[34m ⠿ Container todo-backend-mongo-1  Removed                                                                                        0.0s
+[0m[34m ⠿ Network todo-backend_default    Removed                                                                                        0.2s
+[0m[?25h]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ sudo docker compose -f docker-compose.dev.yml up -d
+[1A[1B[0G[?25l[+] Running 1/0
+[34m ⠿ Network todo-backend_default    Created                                                                                        0.0s
+[0m[37m ⠋ Container todo-backend-mongo-1  Creating                                                                                       0.0s
+[0m[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+[34m ⠿ Network todo-backend_default    Created                                                                                        0.0s
+[0m[37m ⠿ Container todo-backend-mongo-1  Starting                                                                                       0.1s
+[0m[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+[34m ⠿ Network todo-backend_default    Created                                                                                        0.0s
+[0m[37m ⠿ Container todo-backend-mongo-1  Starting                                                                                       0.2s
+[0m[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+[34m ⠿ Network todo-backend_default    Created                                                                                        0.0s
+[0m[37m ⠿ Container todo-backend-mongo-1  Starting                                                                                       0.3s
+[0m[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+[34m ⠿ Network todo-backend_default    Created                                                                                        0.0s
+[0m[37m ⠿ Container todo-backend-mongo-1  Starting                                                                                       0.4s
+[0m[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+[34m ⠿ Network todo-backend_default    Created                                                                                        0.0s
+[0m[37m ⠿ Container todo-backend-mongo-1  Starting                                                                                       0.5s
+[0m[?25h[1A[1A[1A[0G[?25l[+] Running 1/2
+[34m ⠿ Network todo-backend_default    Created                                                                                        0.0s
+[0m[37m ⠿ Container todo-backend-mongo-1  Starting                                                                                       0.6s
+[0m[?25h[1A[1A[1A[0G[?25l[34m[+] Running 2/2[0m
+[34m ⠿ Network todo-backend_default    Created                                                                                        0.0s
+[0m[34m ⠿ Container todo-backend-mongo-1  Started                                                                                        0.6s
+[0m[?25h]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ d[Ksudo docker container l s
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS          PORTS                     NAMES
+2202daf57483   mongo     "docker-entrypoint.s…"   23 seconds ago   Up 22 seconds   0.0.0.0:3456->27017/tcp   todo-backend-mongo-1
+]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ sudo docker container ls[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[Cmpose -f docker-compose.dev.yml up -d[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[Cntainer ls[K[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo exec -it todo-back end-mongo-1 bash
+sudo: exec: command not found
+]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ sudo exec -it todo-backend-mongo-1 bash[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdexec -it todo-back[1@e[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[Coexec -it todo-bac[1@k[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[C[Ccexec -it todo-ba[1@c[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[C[C[Ckexec -it todo-b[1@a[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[C[C[C[C[Cexec -it todo-[1@b[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[C[C[C[C[Crexec -it todo[1@-[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[C[C[C[C[C[C exec -it tod[1@o[A]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ [C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004hroot@2202daf57483:/# [Kroot@2202daf57483:/# mongosh
+[?2004l]0;mongosh mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	643fc41e00328eb214f2bd06
+Connecting to:		[1m[32mmongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.8.0[0m
+Using MongoDB:		6.0.5
+[1m[33mUsing Mongosh[0m:		1.8.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+
+To help improve our products, anonymous usage data is collected and sent to MongoDB periodically (https://www.mongodb.com/legal/privacy-policy).
+You can opt-out by running the [1mdisableTelemetry()[0m command.
+
+[1G[0J [1G[1G[0Jtest> [7Gshow dbs
+Uncaught [1m[31mMongoServerError[0m: command listDatabases requires authentication
+[1G[0Jtest> [7G
+(To exit, press Ctrl+C again or Ctrl+D or type .exit)
+[1G[0Jtest> [7G
+[?2004hroot@2202daf57483:/# mongosh -u root -p example
+[?2004l]0;mongosh mongodb://<credentials>@127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	643fc43e11551bf776aa5485
+Connecting to:		[1m[32mmongodb://<credentials>@127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.8.0[0m
+Using MongoDB:		6.0.5
+[1m[33mUsing Mongosh[0m:		1.8.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+[1G[0J [1G[1m[33m------[0m
+   [1m[33mThe server generated these startup warnings when booting[0m
+   2023-04-19T10:35:14.271+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+   2023-04-19T10:35:15.600+00:00: /sys/kernel/mm/transparent_hugepage/enabled is 'always'. We suggest setting it to 'never'
+   2023-04-19T10:35:15.600+00:00: vm.max_map_count is too low
+[1m[33m------[0m
+
+[1m[33m------[0m
+   Enable MongoDB's free cloud-based monitoring service, which will then receive and display
+   metrics about your deployment (disk utilization, CPU, operation statistics, etc).
+   
+   The monitoring data will be available on a MongoDB website with a unique URL accessible to you
+   and anyone you share the URL with. MongoDB may use this information to make product
+   improvements and to suggest MongoDB products and deployment options to you.
+   
+   To enable free monitoring, run the following command: db.enableFreeMonitoring()
+   To permanently disable this reminder, run the following command: db.disableFreeMonitoring()
+[1m[33m------[0m
+
+[1G[0Jtest> [7G[1G[0Jtest> show dbs[15G[1G[0Jtest> [7G[1G[0Jtest> show dbs[15G
+[1madmin[0m         100.00 KiB
+[1mconfig[0m         12.00 KiB
+[1mlocal[0m          72.00 KiB
+[1mthe_database[0m   40.00 KiB
+[1G[0Jtest> [7Guse the_database
+switched to db the_database
+[1G[0Jthe_database> [15Gshow collections
+[1mtodos[0m
+[1G[0Jthe_database> [15Gdb.todos.find({})
+[
+  {
+    _id: ObjectId("643fc3e187ea7e3c285292d5"),
+    text: [32m'Write code'[39m,
+    done: [33mtrue[39m
+  },
+  {
+    _id: ObjectId("643fc3e187ea7e3c285292d6"),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15Gdb.todos.insertOne({text[33mtext[39m: [32m'[39m[32mI[39m[32mn[39m[32mc[39m[32mr[39m[32me[39m[32ma[39m[32ms[39m[32me[39m [32mt[39m[32mh[39m[32me[39m [32mn[39m[32mu[39m[32mm[39m[32mb[39m[32me[39m[32mr[39m [32mo[39m[32mf[39m [32mt[39m[32mo[39m[32mo[39m[32ml[39m[32ms[39m [32mi[39m[32mn[39m [32mm[39m[32my[39m [32mt[39m[32mo[39m[32mo[39m[32ml[39m[32mb[39m[32me[39m[32ml[39m[32mt[39m[32m'[39m, d[36mdo[39mdone[32m"[39m[32mf[39m[32ma[39m[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m'Increase the number of tools in my toolbelt'[39m, done[32m"f[39m[94G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m'Increase the number of tools in my toolbelt'[39m, done[32m"[39m[93G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m'Increase the number of tools in my toolbelt'[39m, done[92G[33mdone[39m: fals[33mfalse[39m})
+{
+  acknowledged: [33mtrue[39m,
+  insertedId: ObjectId("643fc4b1e7b5a003f8d3c32d")
+}
+[1G[0Jthe_database> [15G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m: [32m'Increase the number of tools in my toolbelt'[39m, [33mdone[39m: [33mfalse[39m})[101G[1G[0Jthe_database> db.todos.find({})[32G
+[
+  {
+    _id: ObjectId("643fc3e187ea7e3c285292d5"),
+    text: [32m'Write code'[39m,
+    done: [33mtrue[39m
+  },
+  {
+    _id: ObjectId("643fc3e187ea7e3c285292d6"),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId("643fc4b1e7b5a003f8d3c32d"),
+    text: [32m'Increase the number of tools in my toolbelt'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15Gexit
+[?2004hroot@2202daf57483:/# exit
+[?2004lexit
+]0;edzhuks@LAPTOP-V7FDM146: /mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[01;32medzhuks@LAPTOP-V7FDM146[00m:[01;34m/mnt/c/Users/edzhu/HelsinkiUniversity/full-stack-open-containers/todo-app/todo-backend[00m$ exit
+exit
+
+Script done on 2023-04-19 13:39:09+03:00 [COMMAND_EXIT_CODE="0"]
