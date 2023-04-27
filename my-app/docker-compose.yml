@@ -1,0 +1,21 @@
+services:
+  app:
+    image: phonebook-frontend
+    container_name: phonebook-frontend # This will name the container hello-front-dev
+    environment:
+      - REACT_APP_BACKEND_URL=http://localhost:8080/api
+  server:
+    image: phonebook-backend
+    environment:
+      - MONGO_URL=mongodb://the_username:the_password@mongo:27017/the_database
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy
+    depends_on:
+      - app
+volumes:
+  mongo_data:

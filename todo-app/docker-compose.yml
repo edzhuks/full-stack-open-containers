@@ -1,9 +1,6 @@
 services:
   app:
     image: todo-frontend
-    # build:
-    #   context: todo-frontend # The context will pick this directory as the "build context"
-    #   dockerfile: todo-frontend/dev.Dockerfile # This will simply tell which dockerfile to read
     container_name: todo-frontend # This will name the container hello-front-dev
     environment:
       - REACT_APP_BACKEND_URL=http://localhost:8080/api

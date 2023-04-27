@@ -1,0 +1,21 @@
+services:
+  app:
+    image: phonebook-frontend-dev
+    volumes:
+      - ./frontend:/usr/src/app # The path can be relative, so ./ is enough to say "the same location as the docker-compose.yml"
+    container_name: phonebook-frontend-dev # This will name the container hello-front-dev
+    environment:
+      - REACT_APP_BACKEND_URL=http://localhost:8080/api
+  server:
+    image: phonebook-backend-dev
+    volumes:
+      - ./backend/:/usr/src/app
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.dev.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy
+    depends_on:
+      - app
