@@ -15,7 +15,7 @@ COPY --from=test-stage ./usr/src/app .
 
 RUN npm ci
 
-ENV REACT_APP_BACKEND_URL=http://server:8080
+ENV REACT_APP_BACKEND_URL=http://localhost:8080/api
 
 RUN npm run build
 
